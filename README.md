@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of dalez/flarum-twemoji.** Not for installation: use [Packagist](https://packagist.org/packages/dalez/flarum-twemoji) or the [upstream repository](https://github.com/DellZHackintosh/flarum-twemoji).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/dalez-flarum-twemoji/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.4`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/dalez-flarum-twemoji/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.4`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-07-24 | `^1.4` | [Browse](https://github.com/flarchive/dalez-flarum-twemoji/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/dalez-flarum-twemoji.json](https://github.com/flarchive/archive-index/blob/main/packages/dalez-flarum-twemoji.json)
 
